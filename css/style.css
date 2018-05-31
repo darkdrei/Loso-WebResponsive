@@ -13,4 +13,8 @@ body{
 p{
     font-size: 14px;
 }
-/* Footer*/
+/*============ HEADER ===========>*/
+.header{
+    background-image: url("../img/header-bg.jpg");
+
+}
